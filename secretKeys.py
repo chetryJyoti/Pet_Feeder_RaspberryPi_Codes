@@ -1,0 +1,11 @@
+# add you own endpoints and keys here
+
+APPWRITE_ENDPOINT = ''
+APPWRITE_PROJECT_ID = ''
+APPWRITE_API_KEY = ''
+APPWRITE_BUCKET_ID = ''
+
+
+
+THINGSPEAK_CHANNEL_ID = ''
+THINGSPEAK_READ_API_KEY = ''
