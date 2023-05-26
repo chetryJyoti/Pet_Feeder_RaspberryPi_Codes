@@ -1,4 +1,4 @@
-# Pet Feeder RaspberryPi Codes
+# Pet Feeder RaspberryPi Codes (go to master branch)
 
 This repository contains the necessary code to build an automated pet feeder system using Raspberry Pi. The code enables automatic feeding of pets based on various triggers and conditions.
 
@@ -24,3 +24,5 @@ Overall, the Pet_Feeder_RaspberryPi_Codes repository provides a comprehensive se
 
 
 ### More docs comming soon on how to use ....
+
+
